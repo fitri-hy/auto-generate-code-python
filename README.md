@@ -38,7 +38,4 @@ python main.py
 
 ## Demo
 
-<video width="640" height="480" controls>
-  <source src="./ss.mp4" type="video/mp4">
-  Browser Anda tidak mendukung tag video.
-</video>
+<iframe src="./ss.mp4" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
