@@ -38,4 +38,6 @@ python main.py
 
 ## Demo
 
-<iframe src="./ss.mp4" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<video width="320" height="240" controls>
+  <source src="ss.mp4" type="video/mp4">
+</video>
